@@ -1,3 +1,2 @@
 # text_cleaner
-txt file cleaner made using PHP
-removes whitespace
+removes whitespace from txt files
